@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @michael-olufemi
-- 👀 I’m interested in Genomics/Bioinformatics/Cellelular and Molecular biology, Oncogenomics
-- 🌱 I’m currently learning Parasitology, Genetics and Bioinformatics
-- 💞️ I’m looking to collaborate on Oncogenomics/Genomics/ Precision Medicine
+- 👀 I’m interested in Genome evolution
+- 🌱 I’m currently a PhD student in Bioinformatics
 - 📫 How to reach me olufemim3@gmail.com
 
 <!---
